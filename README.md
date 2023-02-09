@@ -16,5 +16,3 @@ Living in the Northwest and making money from previous startups, Babs knows that
 * [**Customer Scenarios**](https://github.com/pvu-1864424/bbb-analysis-design/blob/9f62198fbc154be44f50d7c626ab1d1043619f6c/Customer%20Scenarios%20S3.pdf)
 * [**Requirements Specifications**](https://github.com/pvu-1864424/bbb-analysis-design/blob/9f62198fbc154be44f50d7c626ab1d1043619f6c/Requirements%20Specifications%20S4.pdf)
 * [**System Architecture**](https://github.com/pvu-1864424/bbb-analysis-design/blob/9f62198fbc154be44f50d7c626ab1d1043619f6c/System%20Architecture%20S5.pdf)
-
-*Copyrights: This project is a project for CSS370: Analysis and Design course. If you have any questions or feedback regarding this project, please let us know at [Phuong's email](mailto:prokhanhphuong@gmail.com)* 
